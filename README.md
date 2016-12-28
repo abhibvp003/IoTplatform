@@ -1,0 +1,2 @@
+# IoTplatform
+creating a device where any sensor can connect and gives there output in the end side for this we are working in three layers in 1 st layer we are using Rpi and various sensors like sense hat package of sensor and others and we connect other sensor with WIPY and in these device we are using mqtt protocol at device layer and in language side we use micro python and in the device layer we can use mqtt or CoAP using express  in node js  now for connection with 3rd layer we trying to implement ponte or HTTP using express and use influxdb or mongodb  to save data
